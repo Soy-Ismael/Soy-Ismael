@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Soy-Ismael.Soy-Ismael" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+a+todos!+👋;+¡Soy+Ismael+!+😊;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola+a+todos!+👋;+¡Soy+Ismael!+😊;" />
 </h1>
 
 <h3 align="center">Apasionado desarrollador de República Dominicana</h3>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Soy-Ismael/Soy-Ismael/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
